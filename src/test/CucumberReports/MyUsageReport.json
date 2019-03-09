@@ -1,0 +1,1115 @@
+[
+  {
+    "source": "click the Reference check box again",
+    "steps": [
+      {
+        "name": "click the Reference check box again",
+        "aggregatedDurations": {
+          "average": 0.077120033,
+          "median": 0.077120033
+        },
+        "durations": [
+          {
+            "duration": 0.077120033,
+            "location": "src/test/CucumberFeatures/Ihtibar.feature:9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Page title should contain {string}",
+    "steps": [
+      {
+        "name": "Page title should contain \"Requests for Qu\"",
+        "aggregatedDurations": {
+          "average": 0.010911151,
+          "median": 0.010911151
+        },
+        "durations": [
+          {
+            "duration": 0.010911151,
+            "location": "src/test/CucumberFeatures/Muhtar.feature:5"
+          }
+        ]
+      },
+      {
+        "name": "Page title should contain \"Purchase Orders\"",
+        "aggregatedDurations": {
+          "average": 0.00686891,
+          "median": 0.00686891
+        },
+        "durations": [
+          {
+            "duration": 0.00686891,
+            "location": "src/test/CucumberFeatures/Muhtar.feature:12"
+          }
+        ]
+      },
+      {
+        "name": "Page title should contain \"Vendor\"",
+        "aggregatedDurations": {
+          "average": 0.00848811,
+          "median": 0.00848811
+        },
+        "durations": [
+          {
+            "duration": 0.00848811,
+            "location": "src/test/CucumberFeatures/Shehla.feature:32"
+          }
+        ]
+      },
+      {
+        "name": "Page title should contain \"Vendor Bil\"",
+        "aggregatedDurations": {
+          "average": 0.005272749,
+          "median": 0.005272749
+        },
+        "durations": [
+          {
+            "duration": 0.005272749,
+            "location": "src/test/CucumberFeatures/Zohrajan.feature:5"
+          }
+        ]
+      },
+      {
+        "name": "Page title should contain \"Incoming Produc\"",
+        "aggregatedDurations": {
+          "average": 0.010881285,
+          "median": 0.010881285
+        },
+        "durations": [
+          {
+            "duration": 0.010881285,
+            "location": "src/test/CucumberFeatures/Zohrajan.feature:9"
+          }
+        ]
+      },
+      {
+        "name": "Page title should contain \"Produc\"",
+        "aggregatedDurations": {
+          "average": 0.013117445,
+          "median": 0.013117445
+        },
+        "durations": [
+          {
+            "duration": 0.013117445,
+            "location": "src/test/CucumberFeatures/Zohrajan.feature:13"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "the product details should display",
+    "steps": [
+      {
+        "name": "the product details should display",
+        "aggregatedDurations": {
+          "average": 3.067026375,
+          "median": 3.067026375
+        },
+        "durations": [
+          {
+            "duration": 3.067026375,
+            "location": "src/test/CucumberFeatures/Shehla.feature:14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Click the Incoming Products",
+    "steps": [
+      {
+        "name": "Click the Incoming Products",
+        "aggregatedDurations": {
+          "average": 1.376553974,
+          "median": 1.377559201
+        },
+        "durations": [
+          {
+            "duration": 1.476874017,
+            "location": "src/test/CucumberFeatures/Zohrajan.feature:8"
+          },
+          {
+            "duration": 1.275228704,
+            "location": "src/test/CucumberFeatures/Zohrajan.feature:16"
+          },
+          {
+            "duration": 1.377559201,
+            "location": "src/test/CucumberFeatures/Zohrajan.feature:23"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Received Quantity should be equal to {int}.",
+    "steps": [
+      {
+        "name": "Received Quantity should be equal to 0.",
+        "aggregatedDurations": {
+          "average": 0.052436929,
+          "median": 0.052436929
+        },
+        "durations": [
+          {
+            "duration": 0.052436929,
+            "location": "src/test/CucumberFeatures/Rayisa.feature:32"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "the error message will be displayed.",
+    "steps": [
+      {
+        "name": "the error message will be displayed.",
+        "aggregatedDurations": {
+          "average": 0.078762273,
+          "median": 0.078762273
+        },
+        "durations": [
+          {
+            "duration": 0.078762273,
+            "location": "src/test/CucumberFeatures/Imran.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "All check boxes will be selected",
+    "steps": [
+      {
+        "name": "All check boxes will be selected",
+        "aggregatedDurations": {
+          "average": 0.558093038,
+          "median": 0.558093038
+        },
+        "durations": [
+          {
+            "duration": 0.558093038,
+            "location": "src/test/CucumberFeatures/Ihtibar.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "user click product button",
+    "steps": [
+      {
+        "name": "user click product button",
+        "aggregatedDurations": {
+          "average": 0.175650209,
+          "median": 0.175650209
+        },
+        "durations": [
+          {
+            "duration": 0.175650209,
+            "location": "src/test/CucumberFeatures/Shehla.feature:12"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "should be able to select item from Product Drop Down Box",
+    "steps": [
+      {
+        "name": "should be able to select item from Product Drop Down Box",
+        "aggregatedDurations": {
+          "average": 0.76042462,
+          "median": 0.743842877
+        },
+        "durations": [
+          {
+            "duration": 0.616929116,
+            "location": "src/test/CucumberFeatures/Imran.feature:16"
+          },
+          {
+            "duration": 0.658749295,
+            "location": "src/test/CucumberFeatures/Imran.feature:22"
+          },
+          {
+            "duration": 0.770235636,
+            "location": "src/test/CucumberFeatures/Imran.feature:29"
+          },
+          {
+            "duration": 1.007346777,
+            "location": "src/test/CucumberFeatures/Muhtar.feature:19"
+          },
+          {
+            "duration": 0.793846525,
+            "location": "src/test/CucumberFeatures/Muhtar.feature:28"
+          },
+          {
+            "duration": 0.840123238,
+            "location": "src/test/CucumberFeatures/Rayisa.feature:8"
+          },
+          {
+            "duration": 0.691336402,
+            "location": "src/test/CucumberFeatures/Rayisa.feature:23"
+          },
+          {
+            "duration": 0.743842877,
+            "location": "src/test/CucumberFeatures/Rayisa.feature:31"
+          },
+          {
+            "duration": 0.721411721,
+            "location": "src/test/CucumberFeatures/Rayisa.feature:38"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "All check boxes will be deselected.",
+    "steps": [
+      {
+        "name": "All check boxes will be deselected.",
+        "aggregatedDurations": {
+          "average": 0.241634663,
+          "median": 0.241634663
+        },
+        "durations": [
+          {
+            "duration": 0.241634663,
+            "location": "src/test/CucumberFeatures/Ihtibar.feature:10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "each vendor\u0027s name on table matches with thier name on recipe.",
+    "steps": [
+      {
+        "name": "each vendor\u0027s name on table matches with thier name on recipe.",
+        "aggregatedDurations": {
+          "average": 11.185077839,
+          "median": 11.185077839
+        },
+        "durations": [
+          {
+            "duration": 11.185077839,
+            "location": "src/test/CucumberFeatures/Ihtibar.feature:21"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "user should see create button",
+    "steps": [
+      {
+        "name": "user should see create button",
+        "aggregatedDurations": {
+          "average": 0.085294116,
+          "median": 0.085294116
+        },
+        "durations": [
+          {
+            "duration": 0.085294116,
+            "location": "src/test/CucumberFeatures/Shehla.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "confirmation window will pup up",
+    "steps": [
+      {
+        "name": "confirmation window will pup up",
+        "aggregatedDurations": {
+          "average": 0.154647533,
+          "median": 0.154647533
+        },
+        "durations": [
+          {
+            "duration": 0.154647533,
+            "location": "src/test/CucumberFeatures/Zohrajan.feature:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "when user click create button",
+    "steps": [
+      {
+        "name": "when user click create button",
+        "aggregatedDurations": {
+          "average": 3.104967363,
+          "median": 3.106542552
+        },
+        "durations": [
+          {
+            "duration": 3.112689542,
+            "location": "src/test/CucumberFeatures/Imran.feature:4"
+          },
+          {
+            "duration": 3.106542552,
+            "location": "src/test/CucumberFeatures/Imran.feature:9"
+          },
+          {
+            "duration": 3.088199717,
+            "location": "src/test/CucumberFeatures/Imran.feature:14"
+          },
+          {
+            "duration": 3.111785435,
+            "location": "src/test/CucumberFeatures/Imran.feature:20"
+          },
+          {
+            "duration": 3.091102332,
+            "location": "src/test/CucumberFeatures/Imran.feature:27"
+          },
+          {
+            "duration": 3.08697433,
+            "location": "src/test/CucumberFeatures/Muhtar.feature:17"
+          },
+          {
+            "duration": 3.107296899,
+            "location": "src/test/CucumberFeatures/Muhtar.feature:26"
+          },
+          {
+            "duration": 3.149765184,
+            "location": "src/test/CucumberFeatures/Rayisa.feature:6"
+          },
+          {
+            "duration": 3.129241229,
+            "location": "src/test/CucumberFeatures/Rayisa.feature:14"
+          },
+          {
+            "duration": 3.097458388,
+            "location": "src/test/CucumberFeatures/Rayisa.feature:21"
+          },
+          {
+            "duration": 3.085213476,
+            "location": "src/test/CucumberFeatures/Rayisa.feature:29"
+          },
+          {
+            "duration": 3.074839925,
+            "location": "src/test/CucumberFeatures/Rayisa.feature:36"
+          },
+          {
+            "duration": 3.123466719,
+            "location": "src/test/CucumberFeatures/Shehla.feature:8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Click the Products link",
+    "steps": [
+      {
+        "name": "Click the Products link",
+        "aggregatedDurations": {
+          "average": 1.930324308,
+          "median": 1.947438058
+        },
+        "durations": [
+          {
+            "duration": 1.947438058,
+            "location": "src/test/CucumberFeatures/Shehla.feature:18"
+          },
+          {
+            "duration": 1.991153062,
+            "location": "src/test/CucumberFeatures/Shehla.feature:24"
+          },
+          {
+            "duration": 1.852381804,
+            "location": "src/test/CucumberFeatures/Zohrajan.feature:12"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Click product box",
+    "steps": [
+      {
+        "name": "Click product box",
+        "aggregatedDurations": {
+          "average": 0.269280755,
+          "median": 0.269280755
+        },
+        "durations": [
+          {
+            "duration": 0.246563092,
+            "location": "src/test/CucumberFeatures/Shehla.feature:19"
+          },
+          {
+            "duration": 0.291998418,
+            "location": "src/test/CucumberFeatures/Shehla.feature:25"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Click Vendor page.",
+    "steps": [
+      {
+        "name": "Click Vendor page.",
+        "aggregatedDurations": {
+          "average": 2.598467669,
+          "median": 2.598467669
+        },
+        "durations": [
+          {
+            "duration": 2.598467669,
+            "location": "src/test/CucumberFeatures/Shehla.feature:31"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Total tax should equal to Subtotal * Tax rate;",
+    "steps": [
+      {
+        "name": "Total tax should equal to Subtotal * Tax rate;",
+        "aggregatedDurations": {
+          "average": 0.18880264,
+          "median": 0.18880264
+        },
+        "durations": [
+          {
+            "duration": 0.18880264,
+            "location": "src/test/CucumberFeatures/Muhtar.feature:21"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "sum of all untexted amount equal to the total balance shown at the end.",
+    "steps": [
+      {
+        "name": "sum of all untexted amount equal to the total balance shown at the end.",
+        "aggregatedDurations": {
+          "average": 0.4994656,
+          "median": 0.4994656
+        },
+        "durations": [
+          {
+            "duration": 0.4994656,
+            "location": "src/test/CucumberFeatures/Ihtibar.feature:18"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Qunatity box should be empty.",
+    "steps": [
+      {
+        "name": "Qunatity box should be empty.",
+        "aggregatedDurations": {
+          "average": 0.042014312,
+          "median": 0.042014312
+        },
+        "durations": [
+          {
+            "duration": 0.042014312,
+            "location": "src/test/CucumberFeatures/Rayisa.feature:24"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Select the Random product",
+    "steps": [
+      {
+        "name": "Select the Random product",
+        "aggregatedDurations": {
+          "average": 0.142905234,
+          "median": 0.142905234
+        },
+        "durations": [
+          {
+            "duration": 0.142905234,
+            "location": "src/test/CucumberFeatures/Zohrajan.feature:17"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "The default teax should be {int}",
+    "steps": [
+      {
+        "name": "The default teax should be 0",
+        "aggregatedDurations": {
+          "average": 0.050710208,
+          "median": 0.050710208
+        },
+        "durations": [
+          {
+            "duration": 0.050710208,
+            "location": "src/test/CucumberFeatures/Rayisa.feature:16"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "user should see product page",
+    "steps": [
+      {
+        "name": "user should see product page",
+        "aggregatedDurations": {
+          "average": 0.052316609,
+          "median": 0.052316609
+        },
+        "durations": [
+          {
+            "duration": 0.052316609,
+            "location": "src/test/CucumberFeatures/Shehla.feature:13"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "click the purchaseOrder",
+    "steps": [
+      {
+        "name": "click the purchaseOrder",
+        "aggregatedDurations": {
+          "average": 0.969060253,
+          "median": 0.996619518
+        },
+        "durations": [
+          {
+            "duration": 1.027871585,
+            "location": "src/test/CucumberFeatures/Muhtar.feature:11"
+          },
+          {
+            "duration": 0.883072377,
+            "location": "src/test/CucumberFeatures/Muhtar.feature:16"
+          },
+          {
+            "duration": 1.00778027,
+            "location": "src/test/CucumberFeatures/Muhtar.feature:25"
+          },
+          {
+            "duration": 1.003208108,
+            "location": "src/test/CucumberFeatures/Rayisa.feature:5"
+          },
+          {
+            "duration": 0.990030929,
+            "location": "src/test/CucumberFeatures/Rayisa.feature:13"
+          },
+          {
+            "duration": 1.01604182,
+            "location": "src/test/CucumberFeatures/Rayisa.feature:20"
+          },
+          {
+            "duration": 0.855519512,
+            "location": "src/test/CucumberFeatures/Rayisa.feature:28"
+          },
+          {
+            "duration": 0.968957426,
+            "location": "src/test/CucumberFeatures/Rayisa.feature:35"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "click the each products check box.",
+    "steps": [
+      {
+        "name": "click the each products check box.",
+        "aggregatedDurations": {
+          "average": 5.287842256,
+          "median": 5.287842256
+        },
+        "durations": [
+          {
+            "duration": 5.287842256,
+            "location": "src/test/CucumberFeatures/Ihtibar.feature:14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Total Price \u003d subtotal + Taxes amount",
+    "steps": [
+      {
+        "name": "Total Price \u003d subtotal + Taxes amount",
+        "aggregatedDurations": {
+          "average": 0.086451664,
+          "median": 0.086451664
+        },
+        "durations": [
+          {
+            "duration": 0.086451664,
+            "location": "src/test/CucumberFeatures/Muhtar.feature:30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Billed Quantity should be equal to {int}.",
+    "steps": [
+      {
+        "name": "Billed Quantity should be equal to 0.",
+        "aggregatedDurations": {
+          "average": 0.043920659,
+          "median": 0.043920659
+        },
+        "durations": [
+          {
+            "duration": 0.043920659,
+            "location": "src/test/CucumberFeatures/Rayisa.feature:39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Click Edit Button",
+    "steps": [
+      {
+        "name": "Click Edit Button",
+        "aggregatedDurations": {
+          "average": 2.665407004,
+          "median": 2.665407004
+        },
+        "durations": [
+          {
+            "duration": 2.665407004,
+            "location": "src/test/CucumberFeatures/Shehla.feature:26"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "click the save buttons",
+    "steps": [
+      {
+        "name": "click the save buttons",
+        "aggregatedDurations": {
+          "average": 0.431695971,
+          "median": 0.431695971
+        },
+        "durations": [
+          {
+            "duration": 0.743972584,
+            "location": "src/test/CucumberFeatures/Imran.feature:5"
+          },
+          {
+            "duration": 0.119419358,
+            "location": "src/test/CucumberFeatures/Imran.feature:31"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Eneter {string} to Unit Price box",
+    "steps": [
+      {
+        "name": "Eneter \"200\" to Unit Price box",
+        "aggregatedDurations": {
+          "average": 0.866206023,
+          "median": 0.866206023
+        },
+        "durations": [
+          {
+            "duration": 0.794941352,
+            "location": "src/test/CucumberFeatures/Muhtar.feature:20"
+          },
+          {
+            "duration": 0.937470694,
+            "location": "src/test/CucumberFeatures/Muhtar.feature:29"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Click Vendor Bill link.",
+    "steps": [
+      {
+        "name": "Click Vendor Bill link.",
+        "aggregatedDurations": {
+          "average": 1.246778986,
+          "median": 1.246778986
+        },
+        "durations": [
+          {
+            "duration": 1.246778986,
+            "location": "src/test/CucumberFeatures/Zohrajan.feature:4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Enter {string} to salex price box",
+    "steps": [
+      {
+        "name": "Enter \"700\" to salex price box",
+        "aggregatedDurations": {
+          "average": 0.899893717,
+          "median": 0.899893717
+        },
+        "durations": [
+          {
+            "duration": 0.899893717,
+            "location": "src/test/CucumberFeatures/Shehla.feature:27"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "new subtotal should be dispayed",
+    "steps": [
+      {
+        "name": "new subtotal should be dispayed",
+        "aggregatedDurations": {
+          "average": 0.3583417,
+          "median": 0.3583417
+        },
+        "durations": [
+          {
+            "duration": 0.3583417,
+            "location": "src/test/CucumberFeatures/Imran.feature:11"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Click save button",
+    "steps": [
+      {
+        "name": "Click save button",
+        "aggregatedDurations": {
+          "average": 0.657538841,
+          "median": 0.657538841
+        },
+        "durations": [
+          {
+            "duration": 0.657538841,
+            "location": "src/test/CucumberFeatures/Shehla.feature:28"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "products info should match",
+    "steps": [
+      {
+        "name": "products info should match",
+        "aggregatedDurations": {
+          "average": 1.5643228,
+          "median": 1.5643228
+        },
+        "durations": [
+          {
+            "duration": 1.5643228,
+            "location": "src/test/CucumberFeatures/Shehla.feature:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "click the Reference check box",
+    "steps": [
+      {
+        "name": "click the Reference check box",
+        "aggregatedDurations": {
+          "average": 0.164544923,
+          "median": 0.164544923
+        },
+        "durations": [
+          {
+            "duration": 0.162816923,
+            "location": "src/test/CucumberFeatures/Ihtibar.feature:4"
+          },
+          {
+            "duration": 0.166272924,
+            "location": "src/test/CucumberFeatures/Ihtibar.feature:8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "the Unit Price Box should be Empty",
+    "steps": [
+      {
+        "name": "the Unit Price Box should be Empty",
+        "aggregatedDurations": {
+          "average": 0.041969938,
+          "median": 0.041969938
+        },
+        "durations": [
+          {
+            "duration": 0.041969938,
+            "location": "src/test/CucumberFeatures/Imran.feature:17"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "all check boxes will be selected.",
+    "steps": [
+      {
+        "name": "all check boxes will be selected.",
+        "aggregatedDurations": {
+          "average": 1.130689763,
+          "median": 1.130689763
+        },
+        "durations": [
+          {
+            "duration": 1.130689763,
+            "location": "src/test/CucumberFeatures/Zohrajan.feature:25"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Delete The item",
+    "steps": [
+      {
+        "name": "Delete The item",
+        "aggregatedDurations": {
+          "average": 0.079156087,
+          "median": 0.079156087
+        },
+        "durations": [
+          {
+            "duration": 0.079156087,
+            "location": "src/test/CucumberFeatures/Imran.feature:23"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "user click Requests for Quotation",
+    "steps": [
+      {
+        "name": "user click Requests for Quotation",
+        "aggregatedDurations": {
+          "average": 0.191700135,
+          "median": 0.191700135
+        },
+        "durations": [
+          {
+            "duration": 0.191700135,
+            "location": "src/test/CucumberFeatures/Shehla.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Select the delete",
+    "steps": [
+      {
+        "name": "Select the delete",
+        "aggregatedDurations": {
+          "average": 0.152351638,
+          "median": 0.152351638
+        },
+        "durations": [
+          {
+            "duration": 0.152351638,
+            "location": "src/test/CucumberFeatures/Zohrajan.feature:19"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "the order page should display",
+    "steps": [
+      {
+        "name": "the order page should display",
+        "aggregatedDurations": {
+          "average": 0.513551579,
+          "median": 0.513551579
+        },
+        "durations": [
+          {
+            "duration": 0.513551579,
+            "location": "src/test/CucumberFeatures/Shehla.feature:9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "each products check box will be selected.",
+    "steps": [
+      {
+        "name": "each products check box will be selected.",
+        "aggregatedDurations": {
+          "average": 0.151916012,
+          "median": 0.151916012
+        },
+        "durations": [
+          {
+            "duration": 0.151916012,
+            "location": "src/test/CucumberFeatures/Ihtibar.feature:15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Click The Vendor drop down box and select random vendor",
+    "steps": [
+      {
+        "name": "Click The Vendor drop down box and select random vendor",
+        "aggregatedDurations": {
+          "average": 0.563602161,
+          "median": 0.563602161
+        },
+        "durations": [
+          {
+            "duration": 0.563602161,
+            "location": "src/test/CucumberFeatures/Imran.feature:30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Header’s of Quotation page equals link\u0027s title",
+    "steps": [
+      {
+        "name": "Header’s of Quotation page equals link\u0027s title",
+        "aggregatedDurations": {
+          "average": 0.059895492,
+          "median": 0.059895492
+        },
+        "durations": [
+          {
+            "duration": 0.059895492,
+            "location": "src/test/CucumberFeatures/Muhtar.feature:8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Click the Add an Item",
+    "steps": [
+      {
+        "name": "Click the Add an Item",
+        "aggregatedDurations": {
+          "average": 0.80233076,
+          "median": 0.815178801
+        },
+        "durations": [
+          {
+            "duration": 0.785116495,
+            "location": "src/test/CucumberFeatures/Imran.feature:10"
+          },
+          {
+            "duration": 0.922098314,
+            "location": "src/test/CucumberFeatures/Imran.feature:15"
+          },
+          {
+            "duration": 0.844734654,
+            "location": "src/test/CucumberFeatures/Imran.feature:21"
+          },
+          {
+            "duration": 0.853288044,
+            "location": "src/test/CucumberFeatures/Imran.feature:28"
+          },
+          {
+            "duration": 1.359055513,
+            "location": "src/test/CucumberFeatures/Muhtar.feature:18"
+          },
+          {
+            "duration": 0.743008317,
+            "location": "src/test/CucumberFeatures/Muhtar.feature:27"
+          },
+          {
+            "duration": 0.770813769,
+            "location": "src/test/CucumberFeatures/Rayisa.feature:7"
+          },
+          {
+            "duration": 0.159256388,
+            "location": "src/test/CucumberFeatures/Rayisa.feature:9"
+          },
+          {
+            "duration": 0.732818232,
+            "location": "src/test/CucumberFeatures/Rayisa.feature:15"
+          },
+          {
+            "duration": 0.827421793,
+            "location": "src/test/CucumberFeatures/Rayisa.feature:22"
+          },
+          {
+            "duration": 0.818220723,
+            "location": "src/test/CucumberFeatures/Rayisa.feature:30"
+          },
+          {
+            "duration": 0.81213688,
+            "location": "src/test/CucumberFeatures/Rayisa.feature:37"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "click the expected date check box",
+    "steps": [
+      {
+        "name": "click the expected date check box",
+        "aggregatedDurations": {
+          "average": 0.183244025,
+          "median": 0.183244025
+        },
+        "durations": [
+          {
+            "duration": 0.183244025,
+            "location": "src/test/CucumberFeatures/Zohrajan.feature:24"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Click the action button.",
+    "steps": [
+      {
+        "name": "Click the action button.",
+        "aggregatedDurations": {
+          "average": 0.138724326,
+          "median": 0.138724326
+        },
+        "durations": [
+          {
+            "duration": 0.138724326,
+            "location": "src/test/CucumberFeatures/Zohrajan.feature:18"
+          }
+        ]
+      }
+    ]
+  }
+]
