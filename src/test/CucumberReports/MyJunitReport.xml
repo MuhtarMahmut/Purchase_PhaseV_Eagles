@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="30" time="548.077715">
-<testcase classname="Ihtibars 5 Test cases" name="Verify that reference check-box should be able to select all products." time="20.173209">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="30" time="636.952812">
+<testcase classname="Ihtibars 5 Test cases" name="Verify that reference check-box should be able to select all products." time="20.223538">
 <system-out><![CDATA[When click the Reference check box..........................................passed
 Then All check boxes will be selected.......................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Ihtibars 5 Test cases" name="Verify that reference check-box should be able to Deselect all products." time="14.955805">
+<testcase classname="Ihtibars 5 Test cases" name="Verify that reference check-box should be able to Deselect all products." time="17.408303">
 <system-out><![CDATA[When click the Reference check box..........................................passed
 And click the Reference check box again.....................................passed
 Then All check boxes will be deselected.....................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Ihtibars 5 Test cases" name="Verify that each products should be selectable separately." time="19.56247">
+<testcase classname="Ihtibars 5 Test cases" name="Verify that each products should be selectable separately." time="23.3904">
 <system-out><![CDATA[When click the each products check box......................................passed
 Then each products check box will be selected...............................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Ihtibars 5 Test cases" name="Verify that sum of Untaxed balances should equal to total balance shown at the blow." time="15.897936">
+<testcase classname="Ihtibars 5 Test cases" name="Verify that sum of Untaxed balances should equal to total balance shown at the blow." time="16.112565">
 <system-out><![CDATA[Then sum of all untexted amount equal to the total balance shown at the end..passed
 ]]></system-out>
 </testcase>
-<testcase classname="Ihtibars 5 Test cases" name="Verify that each Vendors’ name on the table should be same with vendor’name on the receipt." time="25.567516">
+<testcase classname="Ihtibars 5 Test cases" name="Verify that each Vendors’ name on the table should be same with vendor’name on the receipt." time="28.795988">
 <system-out><![CDATA[Then each vendor's name on table matches with thier name on recipe..........passed
 ]]></system-out>
 </testcase>
-<testcase classname="Imran's 5 test cases" name="User should not be able to create Request for Quotation without selecting the vendor" time="18.236466">
+<testcase classname="Imran's 5 test cases" name="User should not be able to create Request for Quotation without selecting the vendor" time="21.594262">
 <system-out><![CDATA[And when user click create button...........................................passed
 Then click the save buttons.................................................passed
 Then the error message will be displayed....................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Imran's 5 test cases" name="User should be able to Add Item when creating Request for quotation" time="18.964515">
+<testcase classname="Imran's 5 test cases" name="User should be able to Add Item when creating Request for quotation" time="22.266535">
 <system-out><![CDATA[And when user click create button...........................................passed
 Then Click the Add an Item..................................................passed
 Then new subtotal should be dispayed........................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Imran's 5 test cases" name="The default unit price box should be empty when creating Request for quotation" time="19.346872">
+<testcase classname="Imran's 5 test cases" name="The default unit price box should be empty when creating Request for quotation" time="23.35481">
 <system-out><![CDATA[And when user click create button...........................................passed
 Then Click the Add an Item..................................................passed
 Then should be able to select item from Product Drop Down Box...............passed
 Then the Unit Price Box should be Empty.....................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Imran's 5 test cases" name="Should be able to delete the added item when creating Request for quotation" time="18.715915">
+<testcase classname="Imran's 5 test cases" name="Should be able to delete the added item when creating Request for quotation" time="23.081766">
 <system-out><![CDATA[And when user click create button...........................................passed
 Then Click the Add an Item..................................................passed
 Then should be able to select item from Product Drop Down Box...............passed
 Then Delete The item........................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Imran's 5 test cases" name="should be able to save the Requast when creating Request for quotation" time="19.611961">
+<testcase classname="Imran's 5 test cases" name="should be able to save the Requast when creating Request for quotation" time="22.823909">
 <system-out><![CDATA[And when user click create button...........................................passed
 Then Click the Add an Item..................................................passed
 Then should be able to select item from Product Drop Down Box...............passed
@@ -58,20 +58,20 @@ Then Click The Vendor drop down box and select random vendor................pass
 Then click the save buttons.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Muhtars 5 test cases" name="default page from the purchase moudle is Request for Quotation page." time="14.080135">
+<testcase classname="Muhtars 5 test cases" name="default page from the purchase moudle is Request for Quotation page." time="16.497697">
 <system-out><![CDATA[Then Page title should contain "Requests for Qu"............................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Muhtars 5 test cases" name="Header’s of Quotation page and selected link’s name has to match." time="14.578065">
+<testcase classname="Muhtars 5 test cases" name="Header’s of Quotation page and selected link’s name has to match." time="16.097316">
 <system-out><![CDATA[Then Header’s of Quotation page equals link's title.........................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Muhtars 5 test cases" name="Purchase orders page should be clickable and accessible." time="14.939617">
+<testcase classname="Muhtars 5 test cases" name="Purchase orders page should be clickable and accessible." time="17.123636">
 <system-out><![CDATA[Then click the purchaseOrder................................................passed
 Then Page title should contain "Purchase Orders"............................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Muhtars 5 test cases" name="Total tax value should be subtotal times tax rate in creating purchase orders" time="21.391889">
+<testcase classname="Muhtars 5 test cases" name="Total tax value should be subtotal times tax rate in creating purchase orders" time="24.162014">
 <system-out><![CDATA[When click the purchaseOrder................................................passed
 And when user click create button...........................................passed
 Then Click the Add an Item..................................................passed
@@ -80,7 +80,7 @@ Then Eneter "200" to Unit Price box.........................................pass
 * Total tax should equal to Subtotal * Tax rate;............................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Muhtars 5 test cases" name="Total price should be equal to the sum of subtotal and Taxes Amount" time="21.532362">
+<testcase classname="Muhtars 5 test cases" name="Total price should be equal to the sum of subtotal and Taxes Amount" time="24.052452">
 <system-out><![CDATA[When click the purchaseOrder................................................passed
 And when user click create button...........................................passed
 Then Click the Add an Item..................................................passed
@@ -89,7 +89,7 @@ Then Eneter "200" to Unit Price box.........................................pass
 * Total Price = subtotal + Taxes amount.....................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Rayisa's 5 steps" name="Should be able to add multiple items in the creating purchase order." time="20.549469">
+<testcase classname="Rayisa's 5 steps" name="Should be able to add multiple items in the creating purchase order." time="22.406439">
 <system-out><![CDATA[When click the purchaseOrder................................................passed
 And when user click create button...........................................passed
 Then Click the Add an Item..................................................passed
@@ -97,14 +97,14 @@ Then should be able to select item from Product Drop Down Box...............pass
 Then Click the Add an Item..................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Rayisa's 5 steps" name="Default tax should be 0 when creating purchase order" time="19.09207">
+<testcase classname="Rayisa's 5 steps" name="Default tax should be 0 when creating purchase order" time="22.815695">
 <system-out><![CDATA[When click the purchaseOrder................................................passed
 And when user click create button...........................................passed
 Then Click the Add an Item..................................................passed
 Then The default teax should be 0...........................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Rayisa's 5 steps" name="Quantity box should be Empty in creating purchase orders." time="19.954412">
+<testcase classname="Rayisa's 5 steps" name="Quantity box should be Empty in creating purchase orders." time="24.187049">
 <system-out><![CDATA[When click the purchaseOrder................................................passed
 And when user click create button...........................................passed
 Then Click the Add an Item..................................................passed
@@ -112,7 +112,7 @@ Then should be able to select item from Product Drop Down Box...............pass
 Then Qunatity box should be empty...........................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Rayisa's 5 steps" name="Rcieved Quantity should be 0 in creating purchase orders" time="19.495767">
+<testcase classname="Rayisa's 5 steps" name="Rcieved Quantity should be 0 in creating purchase orders" time="24.778866">
 <system-out><![CDATA[When click the purchaseOrder................................................passed
 And when user click create button...........................................passed
 Then Click the Add an Item..................................................passed
@@ -120,7 +120,7 @@ Then should be able to select item from Product Drop Down Box...............pass
 Then Received Quantity should be equal to 0.................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Rayisa's 5 steps" name="Billed Quantity should be 0 in creating purchase orders" time="19.842145">
+<testcase classname="Rayisa's 5 steps" name="Billed Quantity should be 0 in creating purchase orders" time="24.260183">
 <system-out><![CDATA[When click the purchaseOrder................................................passed
 And when user click create button...........................................passed
 Then Click the Add an Item..................................................passed
@@ -128,26 +128,26 @@ Then should be able to select item from Product Drop Down Box...............pass
 Then Billed Quantity should be equal to 0...................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Shehlas 5 steps" name="login as a manager" time="17.896349">
+<testcase classname="Shehlas 5 steps" name="login as a manager" time="23.186218">
 <system-out><![CDATA[When user click Requests for Quotation......................................passed
 Then user should see create button..........................................passed
 And when user click create button...........................................passed
 Then the order page should display..........................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Shehlas 5 steps" name="verify product info" time="17.458183">
+<testcase classname="Shehlas 5 steps" name="verify product info" time="21.436081">
 <system-out><![CDATA[When user click product button..............................................passed
 Then user should see product page...........................................passed
 Then the product details should display.....................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Shehlas 5 steps" name="Product Should Match With Infos Shown On ProductPage" time="18.158687">
+<testcase classname="Shehlas 5 steps" name="Product Should Match With Infos Shown On ProductPage" time="21.704739">
 <system-out><![CDATA[When Click the Products link................................................passed
 Then Click product box......................................................passed
 Then products info should match.............................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Shehlas 5 steps" name="Sales Price of the product Can Be Updated By TheManeger" time="20.859739">
+<testcase classname="Shehlas 5 steps" name="Sales Price of the product Can Be Updated By TheManeger" time="23.201544">
 <system-out><![CDATA[When Click the Products link................................................passed
 Then Click product box......................................................passed
 Then Click Edit Button......................................................passed
@@ -155,27 +155,27 @@ And Enter "700" to salex price box..........................................pass
 Then Click save button......................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Shehlas 5 steps" name="Verify that vendor page should be cliakcable:" time="16.668638">
+<testcase classname="Shehlas 5 steps" name="Verify that vendor page should be cliakcable:" time="19.622004">
 <system-out><![CDATA[When Click Vendor page......................................................passed
 Then Page title should contain "Vendor".....................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Zohras 5 test cases" name="Vendor bills page should be clickable and accessible" time="15.187537">
+<testcase classname="Zohras 5 test cases" name="Vendor bills page should be clickable and accessible" time="17.678397">
 <system-out><![CDATA[When Click Vendor Bill link.................................................passed
 Then Page title should contain "Vendor Bil".................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Zohras 5 test cases" name="Incoming products page should be clickable and accessible" time="15.852384">
+<testcase classname="Zohras 5 test cases" name="Incoming products page should be clickable and accessible" time="18.307334">
 <system-out><![CDATA[When Click the Incoming Products............................................passed
 Then Page title should contain "Incoming Produc"............................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Zohras 5 test cases" name="Products page should be clickable and accessible" time="16.543132">
+<testcase classname="Zohras 5 test cases" name="Products page should be clickable and accessible" time="18.732476">
 <system-out><![CDATA[When Click the Products link................................................passed
 Then Page title should contain "Produc".....................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Zohras 5 test cases" name="when the manager tries delete an incoming product , system should ask to make sure again." time="16.150552">
+<testcase classname="Zohras 5 test cases" name="when the manager tries delete an incoming product , system should ask to make sure again." time="18.933093">
 <system-out><![CDATA[When Click the Incoming Products............................................passed
 Then Select the Random product..............................................passed
 Then Click the action button................................................passed
@@ -183,7 +183,7 @@ And Select the delete.......................................................pass
 Then confirmation window will pup up........................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Zohras 5 test cases" name="When selecting&quot; expecting &quot;date check-box , all the items check box has to be Selected." time="16.813918">
+<testcase classname="Zohras 5 test cases" name="When selecting&quot; expecting &quot;date check-box , all the items check box has to be Selected." time="18.717503">
 <system-out><![CDATA[When Click the Incoming Products............................................passed
 Then click the expected date check box......................................passed
 Then all check boxes will be selected.......................................passed

@@ -22,7 +22,7 @@
       Then should be able to select item from Product Drop Down Box
       Then Delete The item
 
-      @2
+
     Scenario: should be able to save the Requast when creating Request for quotation
       And  when user click create button
       Then Click the Add an Item

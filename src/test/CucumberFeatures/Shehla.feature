@@ -27,6 +27,7 @@
       And Enter "700" to salex price box
       Then Click save button
 
+
     Scenario: Verify that vendor page should be cliakcable:
       When Click Vendor page.
       Then Page title should contain "Vendor"

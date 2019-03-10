@@ -491,9 +491,6 @@ formatter.scenario({
     },
     {
       "name": "@Imran"
-    },
-    {
-      "name": "@2"
     }
   ]
 });

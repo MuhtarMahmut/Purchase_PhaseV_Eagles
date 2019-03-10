@@ -4,6 +4,8 @@ import Pages.*;
 import Utilities.*;
 import cucumber.api.Scenario;
 import cucumber.api.java.*;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.*;
 import java.util.concurrent.TimeUnit;
@@ -44,7 +46,13 @@ public class Hooks extends TestBase {
     }
 
     @After
-    public void tearDown(Scenario scenario) {
+    public void tearDown(Scenario result) {
+        if(result.isFailed()){
+            if(!driver.getCurrentUrl().isEmpty()){
+                TakesScreenshot xx=(TakesScreenshot) Driver.getDriver();
+                result.embed(xx.getScreenshotAs(OutputType.BYTES), "image/png");
+            }
+        }
         act.pause(3000).perform();
           Driver.closeDriver();
 

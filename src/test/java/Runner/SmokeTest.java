@@ -11,8 +11,9 @@ import org.junit.runner.RunWith;
         plugin = {
                 "html:src/test/CucumberReports",
                 "junit:src/test/CucumberReports/MyJunitReport.xml",
-                "usage:src/test/CucumberReports/MyUsageReport.json",
-                "pretty:src/test/CucumberReports/MyprettyReport.txt"
+                "usage:src/test/CucumberReports/MyUsageReport.js",
+                "pretty:src/test/CucumberReports/MyprettyReport.txt",
+                "json:src/test/CucumberReports/MyJasonReport.js"
         },
         tags = "@Regression",      dryRun = false
 )

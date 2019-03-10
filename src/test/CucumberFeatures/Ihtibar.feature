@@ -1,5 +1,6 @@
 @Regression @Ihtibar
   Feature: Ihtibars 5 Test cases
+
     Scenario: Verify that reference check-box should be able to select all products.
       When click the Reference check box
       Then All check boxes will be selected

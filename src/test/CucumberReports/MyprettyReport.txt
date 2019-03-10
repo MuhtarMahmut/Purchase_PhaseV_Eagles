@@ -2,27 +2,27 @@
 Feature: Ihtibars 5 Test cases
 
   @Regression @Ihtibar
-  Scenario: Verify that reference check-box should be able to select all products. [90m# src/test/CucumberFeatures/Ihtibar.feature:3[0m
+  Scenario: Verify that reference check-box should be able to select all products. [90m# src/test/CucumberFeatures/Ihtibar.feature:4[0m
     [32mWhen [0m[32mclick the Reference check box[0m                                             [90m# IhtibarsSteps.click_the_Reference_check_box()[0m
     [32mThen [0m[32mAll check boxes will be selected[0m                                          [90m# IhtibarsSteps.all_check_boxes_will_be_selected()[0m
 
   @Regression @Ihtibar
-  Scenario: Verify that reference check-box should be able to Deselect all products. [90m# src/test/CucumberFeatures/Ihtibar.feature:7[0m
+  Scenario: Verify that reference check-box should be able to Deselect all products. [90m# src/test/CucumberFeatures/Ihtibar.feature:8[0m
     [32mWhen [0m[32mclick the Reference check box[0m                                               [90m# IhtibarsSteps.click_the_Reference_check_box()[0m
     [32mAnd [0m[32mclick the Reference check box again[0m                                          [90m# IhtibarsSteps.click_the_Reference_check_box_again()[0m
     [32mThen [0m[32mAll check boxes will be deselected.[0m                                         [90m# IhtibarsSteps.all_check_boxes_will_be_deselected()[0m
 
   @Regression @Ihtibar
-  Scenario: Verify that each products should be selectable separately. [90m# src/test/CucumberFeatures/Ihtibar.feature:13[0m
+  Scenario: Verify that each products should be selectable separately. [90m# src/test/CucumberFeatures/Ihtibar.feature:14[0m
     [32mWhen [0m[32mclick the each products check box.[0m                            [90m# IhtibarsSteps.click_the_each_products_check_box()[0m
     [32mThen [0m[32meach products check box will be selected.[0m                     [90m# IhtibarsSteps.each_products_check_box_will_be_selected()[0m
 
   @Regression @Ihtibar
-  Scenario: Verify that sum of Untaxed balances should equal to total balance shown at the blow. [90m# src/test/CucumberFeatures/Ihtibar.feature:17[0m
+  Scenario: Verify that sum of Untaxed balances should equal to total balance shown at the blow. [90m# src/test/CucumberFeatures/Ihtibar.feature:18[0m
     [32mThen [0m[32msum of all untexted amount equal to the total balance shown at the end.[0m                 [90m# IhtibarsSteps.sum_of_all_untexted_amount_equal_to_the_total_balance_shown_at_the_end()[0m
 
   @Regression @Ihtibar
-  Scenario: Verify that each Vendors’ name on the table should be same with vendor’name on the receipt. [90m# src/test/CucumberFeatures/Ihtibar.feature:20[0m
+  Scenario: Verify that each Vendors’ name on the table should be same with vendor’name on the receipt. [90m# src/test/CucumberFeatures/Ihtibar.feature:21[0m
     [32mThen [0m[32meach vendor's name on table matches with thier name on recipe.[0m                                 [90m# IhtibarsSteps.each_vendor_s_name_on_table_matches_with_thier_name_on_recipe()[0m
 
 @Regression @Imran
@@ -54,7 +54,7 @@ Feature: Imran's 5 test cases
     [32mThen [0m[32mshould be able to select item from Product Drop Down Box[0m                       [90m# ImransSteps.should_be_able_to_select_item_from_Product_Drop_Down_Box()[0m
     [32mThen [0m[32mDelete The item[0m                                                                [90m# ImransSteps.delete_The_item()[0m
 
-  @Regression @Imran @2
+  @Regression @Imran
   Scenario: should be able to save the Requast when creating Request for quotation [90m# src/test/CucumberFeatures/Imran.feature:26[0m
     [32mAnd [0m[32mwhen user click create button[0m                                              [90m# ShehlasSteps.when_user_click_create_button()[0m
     [32mThen [0m[32mClick the Add an Item[0m                                                     [90m# ImransSteps.click_the_Add_an_Item()[0m
@@ -169,7 +169,7 @@ Feature: Shehlas 5 steps
     [32mThen [0m[32mClick save button[0m                                          [90m# ShehlasSteps.click_save_button()[0m
 
   @Regression @Shehla
-  Scenario: Verify that vendor page should be cliakcable: [90m# src/test/CucumberFeatures/Shehla.feature:30[0m
+  Scenario: Verify that vendor page should be cliakcable: [90m# src/test/CucumberFeatures/Shehla.feature:31[0m
     [32mWhen [0m[32mClick Vendor page.[0m                               [90m# ShehlasSteps.click_Vendor_page()[0m
     [32mThen [0m[32mPage title should contain [0m[32m[1m"Vendor"[0m               [90m# ZohrajansSteps.page_title_should_contain(String)[0m
 

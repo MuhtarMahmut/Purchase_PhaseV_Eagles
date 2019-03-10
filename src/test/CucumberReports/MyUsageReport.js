@@ -5,13 +5,13 @@
       {
         "name": "click the Reference check box again",
         "aggregatedDurations": {
-          "average": 0.077120033,
-          "median": 0.077120033
+          "average": 0.084747556,
+          "median": 0.084747556
         },
         "durations": [
           {
-            "duration": 0.077120033,
-            "location": "src/test/CucumberFeatures/Ihtibar.feature:9"
+            "duration": 0.084747556,
+            "location": "src/test/CucumberFeatures/Ihtibar.feature:10"
           }
         ]
       }
@@ -23,12 +23,12 @@
       {
         "name": "Page title should contain \"Requests for Qu\"",
         "aggregatedDurations": {
-          "average": 0.010911151,
-          "median": 0.010911151
+          "average": 0.012139098,
+          "median": 0.012139098
         },
         "durations": [
           {
-            "duration": 0.010911151,
+            "duration": 0.012139098,
             "location": "src/test/CucumberFeatures/Muhtar.feature:5"
           }
         ]
@@ -36,12 +36,12 @@
       {
         "name": "Page title should contain \"Purchase Orders\"",
         "aggregatedDurations": {
-          "average": 0.00686891,
-          "median": 0.00686891
+          "average": 0.011130885,
+          "median": 0.011130885
         },
         "durations": [
           {
-            "duration": 0.00686891,
+            "duration": 0.011130885,
             "location": "src/test/CucumberFeatures/Muhtar.feature:12"
           }
         ]
@@ -49,25 +49,25 @@
       {
         "name": "Page title should contain \"Vendor\"",
         "aggregatedDurations": {
-          "average": 0.00848811,
-          "median": 0.00848811
+          "average": 0.006279683,
+          "median": 0.006279683
         },
         "durations": [
           {
-            "duration": 0.00848811,
-            "location": "src/test/CucumberFeatures/Shehla.feature:32"
+            "duration": 0.006279683,
+            "location": "src/test/CucumberFeatures/Shehla.feature:33"
           }
         ]
       },
       {
         "name": "Page title should contain \"Vendor Bil\"",
         "aggregatedDurations": {
-          "average": 0.005272749,
-          "median": 0.005272749
+          "average": 0.007720537,
+          "median": 0.007720537
         },
         "durations": [
           {
-            "duration": 0.005272749,
+            "duration": 0.007720537,
             "location": "src/test/CucumberFeatures/Zohrajan.feature:5"
           }
         ]
@@ -75,12 +75,12 @@
       {
         "name": "Page title should contain \"Incoming Produc\"",
         "aggregatedDurations": {
-          "average": 0.010881285,
-          "median": 0.010881285
+          "average": 0.004441175,
+          "median": 0.004441175
         },
         "durations": [
           {
-            "duration": 0.010881285,
+            "duration": 0.004441175,
             "location": "src/test/CucumberFeatures/Zohrajan.feature:9"
           }
         ]
@@ -88,12 +88,12 @@
       {
         "name": "Page title should contain \"Produc\"",
         "aggregatedDurations": {
-          "average": 0.013117445,
-          "median": 0.013117445
+          "average": 0.01418966,
+          "median": 0.01418966
         },
         "durations": [
           {
-            "duration": 0.013117445,
+            "duration": 0.01418966,
             "location": "src/test/CucumberFeatures/Zohrajan.feature:13"
           }
         ]
@@ -106,12 +106,12 @@
       {
         "name": "the product details should display",
         "aggregatedDurations": {
-          "average": 3.067026375,
-          "median": 3.067026375
+          "average": 3.079385634,
+          "median": 3.079385634
         },
         "durations": [
           {
-            "duration": 3.067026375,
+            "duration": 3.079385634,
             "location": "src/test/CucumberFeatures/Shehla.feature:14"
           }
         ]
@@ -124,20 +124,20 @@
       {
         "name": "Click the Incoming Products",
         "aggregatedDurations": {
-          "average": 1.376553974,
-          "median": 1.377559201
+          "average": 1.421604162,
+          "median": 1.433596772
         },
         "durations": [
           {
-            "duration": 1.476874017,
+            "duration": 1.433596772,
             "location": "src/test/CucumberFeatures/Zohrajan.feature:8"
           },
           {
-            "duration": 1.275228704,
+            "duration": 1.479061964,
             "location": "src/test/CucumberFeatures/Zohrajan.feature:16"
           },
           {
-            "duration": 1.377559201,
+            "duration": 1.35215375,
             "location": "src/test/CucumberFeatures/Zohrajan.feature:23"
           }
         ]
@@ -150,12 +150,12 @@
       {
         "name": "Received Quantity should be equal to 0.",
         "aggregatedDurations": {
-          "average": 0.052436929,
-          "median": 0.052436929
+          "average": 0.048397674,
+          "median": 0.048397674
         },
         "durations": [
           {
-            "duration": 0.052436929,
+            "duration": 0.048397674,
             "location": "src/test/CucumberFeatures/Rayisa.feature:32"
           }
         ]
@@ -168,12 +168,12 @@
       {
         "name": "the error message will be displayed.",
         "aggregatedDurations": {
-          "average": 0.078762273,
-          "median": 0.078762273
+          "average": 0.06922755,
+          "median": 0.06922755
         },
         "durations": [
           {
-            "duration": 0.078762273,
+            "duration": 0.06922755,
             "location": "src/test/CucumberFeatures/Imran.feature:6"
           }
         ]
@@ -186,13 +186,13 @@
       {
         "name": "All check boxes will be selected",
         "aggregatedDurations": {
-          "average": 0.558093038,
-          "median": 0.558093038
+          "average": 0.268946035,
+          "median": 0.268946035
         },
         "durations": [
           {
-            "duration": 0.558093038,
-            "location": "src/test/CucumberFeatures/Ihtibar.feature:5"
+            "duration": 0.268946035,
+            "location": "src/test/CucumberFeatures/Ihtibar.feature:6"
           }
         ]
       }
@@ -204,12 +204,12 @@
       {
         "name": "user click product button",
         "aggregatedDurations": {
-          "average": 0.175650209,
-          "median": 0.175650209
+          "average": 0.193059922,
+          "median": 0.193059922
         },
         "durations": [
           {
-            "duration": 0.175650209,
+            "duration": 0.193059922,
             "location": "src/test/CucumberFeatures/Shehla.feature:12"
           }
         ]
@@ -222,44 +222,44 @@
       {
         "name": "should be able to select item from Product Drop Down Box",
         "aggregatedDurations": {
-          "average": 0.76042462,
-          "median": 0.743842877
+          "average": 0.947480297,
+          "median": 0.955535767
         },
         "durations": [
           {
-            "duration": 0.616929116,
+            "duration": 1.019250782,
             "location": "src/test/CucumberFeatures/Imran.feature:16"
           },
           {
-            "duration": 0.658749295,
+            "duration": 0.955535767,
             "location": "src/test/CucumberFeatures/Imran.feature:22"
           },
           {
-            "duration": 0.770235636,
+            "duration": 0.89947601,
             "location": "src/test/CucumberFeatures/Imran.feature:29"
           },
           {
-            "duration": 1.007346777,
+            "duration": 0.890952914,
             "location": "src/test/CucumberFeatures/Muhtar.feature:19"
           },
           {
-            "duration": 0.793846525,
+            "duration": 0.996118185,
             "location": "src/test/CucumberFeatures/Muhtar.feature:28"
           },
           {
-            "duration": 0.840123238,
+            "duration": 0.803064236,
             "location": "src/test/CucumberFeatures/Rayisa.feature:8"
           },
           {
-            "duration": 0.691336402,
+            "duration": 0.908785881,
             "location": "src/test/CucumberFeatures/Rayisa.feature:23"
           },
           {
-            "duration": 0.743842877,
+            "duration": 1.049233515,
             "location": "src/test/CucumberFeatures/Rayisa.feature:31"
           },
           {
-            "duration": 0.721411721,
+            "duration": 1.004905388,
             "location": "src/test/CucumberFeatures/Rayisa.feature:38"
           }
         ]
@@ -272,13 +272,13 @@
       {
         "name": "All check boxes will be deselected.",
         "aggregatedDurations": {
-          "average": 0.241634663,
-          "median": 0.241634663
+          "average": 0.297109887,
+          "median": 0.297109887
         },
         "durations": [
           {
-            "duration": 0.241634663,
-            "location": "src/test/CucumberFeatures/Ihtibar.feature:10"
+            "duration": 0.297109887,
+            "location": "src/test/CucumberFeatures/Ihtibar.feature:11"
           }
         ]
       }
@@ -290,13 +290,13 @@
       {
         "name": "each vendor\u0027s name on table matches with thier name on recipe.",
         "aggregatedDurations": {
-          "average": 11.185077839,
-          "median": 11.185077839
+          "average": 12.224343136,
+          "median": 12.224343136
         },
         "durations": [
           {
-            "duration": 11.185077839,
-            "location": "src/test/CucumberFeatures/Ihtibar.feature:21"
+            "duration": 12.224343136,
+            "location": "src/test/CucumberFeatures/Ihtibar.feature:22"
           }
         ]
       }
@@ -308,12 +308,12 @@
       {
         "name": "user should see create button",
         "aggregatedDurations": {
-          "average": 0.085294116,
-          "median": 0.085294116
+          "average": 0.101285163,
+          "median": 0.101285163
         },
         "durations": [
           {
-            "duration": 0.085294116,
+            "duration": 0.101285163,
             "location": "src/test/CucumberFeatures/Shehla.feature:7"
           }
         ]
@@ -326,12 +326,12 @@
       {
         "name": "confirmation window will pup up",
         "aggregatedDurations": {
-          "average": 0.154647533,
-          "median": 0.154647533
+          "average": 0.264019313,
+          "median": 0.264019313
         },
         "durations": [
           {
-            "duration": 0.154647533,
+            "duration": 0.264019313,
             "location": "src/test/CucumberFeatures/Zohrajan.feature:20"
           }
         ]
@@ -344,60 +344,60 @@
       {
         "name": "when user click create button",
         "aggregatedDurations": {
-          "average": 3.104967363,
-          "median": 3.106542552
+          "average": 3.179995875,
+          "median": 3.17380658
         },
         "durations": [
           {
-            "duration": 3.112689542,
+            "duration": 3.076262433,
             "location": "src/test/CucumberFeatures/Imran.feature:4"
           },
           {
-            "duration": 3.106542552,
+            "duration": 3.289890684,
             "location": "src/test/CucumberFeatures/Imran.feature:9"
           },
           {
-            "duration": 3.088199717,
+            "duration": 3.283757775,
             "location": "src/test/CucumberFeatures/Imran.feature:14"
           },
           {
-            "duration": 3.111785435,
+            "duration": 3.248389226,
             "location": "src/test/CucumberFeatures/Imran.feature:20"
           },
           {
-            "duration": 3.091102332,
+            "duration": 3.104751405,
             "location": "src/test/CucumberFeatures/Imran.feature:27"
           },
           {
-            "duration": 3.08697433,
+            "duration": 3.223520095,
             "location": "src/test/CucumberFeatures/Muhtar.feature:17"
           },
           {
-            "duration": 3.107296899,
+            "duration": 3.175896822,
             "location": "src/test/CucumberFeatures/Muhtar.feature:26"
           },
           {
-            "duration": 3.149765184,
+            "duration": 3.119939464,
             "location": "src/test/CucumberFeatures/Rayisa.feature:6"
           },
           {
-            "duration": 3.129241229,
+            "duration": 3.17380658,
             "location": "src/test/CucumberFeatures/Rayisa.feature:14"
           },
           {
-            "duration": 3.097458388,
+            "duration": 3.169012552,
             "location": "src/test/CucumberFeatures/Rayisa.feature:21"
           },
           {
-            "duration": 3.085213476,
+            "duration": 3.157320601,
             "location": "src/test/CucumberFeatures/Rayisa.feature:29"
           },
           {
-            "duration": 3.074839925,
+            "duration": 3.112035888,
             "location": "src/test/CucumberFeatures/Rayisa.feature:36"
           },
           {
-            "duration": 3.123466719,
+            "duration": 3.205362861,
             "location": "src/test/CucumberFeatures/Shehla.feature:8"
           }
         ]
@@ -410,20 +410,20 @@
       {
         "name": "Click the Products link",
         "aggregatedDurations": {
-          "average": 1.930324308,
-          "median": 1.947438058
+          "average": 2.193170998,
+          "median": 2.238194875
         },
         "durations": [
           {
-            "duration": 1.947438058,
+            "duration": 2.238194875,
             "location": "src/test/CucumberFeatures/Shehla.feature:18"
           },
           {
-            "duration": 1.991153062,
+            "duration": 2.414642523,
             "location": "src/test/CucumberFeatures/Shehla.feature:24"
           },
           {
-            "duration": 1.852381804,
+            "duration": 1.926675596,
             "location": "src/test/CucumberFeatures/Zohrajan.feature:12"
           }
         ]
@@ -436,16 +436,16 @@
       {
         "name": "Click product box",
         "aggregatedDurations": {
-          "average": 0.269280755,
-          "median": 0.269280755
+          "average": 0.330911501,
+          "median": 0.330911501
         },
         "durations": [
           {
-            "duration": 0.246563092,
+            "duration": 0.307696345,
             "location": "src/test/CucumberFeatures/Shehla.feature:19"
           },
           {
-            "duration": 0.291998418,
+            "duration": 0.354126657,
             "location": "src/test/CucumberFeatures/Shehla.feature:25"
           }
         ]
@@ -458,13 +458,13 @@
       {
         "name": "Click Vendor page.",
         "aggregatedDurations": {
-          "average": 2.598467669,
-          "median": 2.598467669
+          "average": 2.711882971,
+          "median": 2.711882971
         },
         "durations": [
           {
-            "duration": 2.598467669,
-            "location": "src/test/CucumberFeatures/Shehla.feature:31"
+            "duration": 2.711882971,
+            "location": "src/test/CucumberFeatures/Shehla.feature:32"
           }
         ]
       }
@@ -476,12 +476,12 @@
       {
         "name": "Total tax should equal to Subtotal * Tax rate;",
         "aggregatedDurations": {
-          "average": 0.18880264,
-          "median": 0.18880264
+          "average": 0.227036257,
+          "median": 0.227036257
         },
         "durations": [
           {
-            "duration": 0.18880264,
+            "duration": 0.227036257,
             "location": "src/test/CucumberFeatures/Muhtar.feature:21"
           }
         ]
@@ -494,13 +494,13 @@
       {
         "name": "sum of all untexted amount equal to the total balance shown at the end.",
         "aggregatedDurations": {
-          "average": 0.4994656,
-          "median": 0.4994656
+          "average": 0.434204345,
+          "median": 0.434204345
         },
         "durations": [
           {
-            "duration": 0.4994656,
-            "location": "src/test/CucumberFeatures/Ihtibar.feature:18"
+            "duration": 0.434204345,
+            "location": "src/test/CucumberFeatures/Ihtibar.feature:19"
           }
         ]
       }
@@ -512,12 +512,12 @@
       {
         "name": "Qunatity box should be empty.",
         "aggregatedDurations": {
-          "average": 0.042014312,
-          "median": 0.042014312
+          "average": 0.042681618,
+          "median": 0.042681618
         },
         "durations": [
           {
-            "duration": 0.042014312,
+            "duration": 0.042681618,
             "location": "src/test/CucumberFeatures/Rayisa.feature:24"
           }
         ]
@@ -530,12 +530,12 @@
       {
         "name": "Select the Random product",
         "aggregatedDurations": {
-          "average": 0.142905234,
-          "median": 0.142905234
+          "average": 0.113143942,
+          "median": 0.113143942
         },
         "durations": [
           {
-            "duration": 0.142905234,
+            "duration": 0.113143942,
             "location": "src/test/CucumberFeatures/Zohrajan.feature:17"
           }
         ]
@@ -548,12 +548,12 @@
       {
         "name": "The default teax should be 0",
         "aggregatedDurations": {
-          "average": 0.050710208,
-          "median": 0.050710208
+          "average": 0.04808194,
+          "median": 0.04808194
         },
         "durations": [
           {
-            "duration": 0.050710208,
+            "duration": 0.04808194,
             "location": "src/test/CucumberFeatures/Rayisa.feature:16"
           }
         ]
@@ -566,12 +566,12 @@
       {
         "name": "user should see product page",
         "aggregatedDurations": {
-          "average": 0.052316609,
-          "median": 0.052316609
+          "average": 0.035557562,
+          "median": 0.035557562
         },
         "durations": [
           {
-            "duration": 0.052316609,
+            "duration": 0.035557562,
             "location": "src/test/CucumberFeatures/Shehla.feature:13"
           }
         ]
@@ -584,40 +584,40 @@
       {
         "name": "click the purchaseOrder",
         "aggregatedDurations": {
-          "average": 0.969060253,
-          "median": 0.996619518
+          "average": 1.22080676,
+          "median": 1.211464197
         },
         "durations": [
           {
-            "duration": 1.027871585,
+            "duration": 1.192783016,
             "location": "src/test/CucumberFeatures/Muhtar.feature:11"
           },
           {
-            "duration": 0.883072377,
+            "duration": 1.144470248,
             "location": "src/test/CucumberFeatures/Muhtar.feature:16"
           },
           {
-            "duration": 1.00778027,
+            "duration": 1.262871579,
             "location": "src/test/CucumberFeatures/Muhtar.feature:25"
           },
           {
-            "duration": 1.003208108,
+            "duration": 1.181276664,
             "location": "src/test/CucumberFeatures/Rayisa.feature:5"
           },
           {
-            "duration": 0.990030929,
+            "duration": 1.329800674,
             "location": "src/test/CucumberFeatures/Rayisa.feature:13"
           },
           {
-            "duration": 1.01604182,
+            "duration": 1.230145379,
             "location": "src/test/CucumberFeatures/Rayisa.feature:20"
           },
           {
-            "duration": 0.855519512,
+            "duration": 1.233152099,
             "location": "src/test/CucumberFeatures/Rayisa.feature:28"
           },
           {
-            "duration": 0.968957426,
+            "duration": 1.191954428,
             "location": "src/test/CucumberFeatures/Rayisa.feature:35"
           }
         ]
@@ -630,13 +630,13 @@
       {
         "name": "click the each products check box.",
         "aggregatedDurations": {
-          "average": 5.287842256,
-          "median": 5.287842256
+          "average": 6.789296123,
+          "median": 6.789296123
         },
         "durations": [
           {
-            "duration": 5.287842256,
-            "location": "src/test/CucumberFeatures/Ihtibar.feature:14"
+            "duration": 6.789296123,
+            "location": "src/test/CucumberFeatures/Ihtibar.feature:15"
           }
         ]
       }
@@ -648,12 +648,12 @@
       {
         "name": "Total Price \u003d subtotal + Taxes amount",
         "aggregatedDurations": {
-          "average": 0.086451664,
-          "median": 0.086451664
+          "average": 0.176921249,
+          "median": 0.176921249
         },
         "durations": [
           {
-            "duration": 0.086451664,
+            "duration": 0.176921249,
             "location": "src/test/CucumberFeatures/Muhtar.feature:30"
           }
         ]
@@ -666,12 +666,12 @@
       {
         "name": "Billed Quantity should be equal to 0.",
         "aggregatedDurations": {
-          "average": 0.043920659,
-          "median": 0.043920659
+          "average": 0.053100396,
+          "median": 0.053100396
         },
         "durations": [
           {
-            "duration": 0.043920659,
+            "duration": 0.053100396,
             "location": "src/test/CucumberFeatures/Rayisa.feature:39"
           }
         ]
@@ -684,12 +684,12 @@
       {
         "name": "Click Edit Button",
         "aggregatedDurations": {
-          "average": 2.665407004,
-          "median": 2.665407004
+          "average": 2.616865543,
+          "median": 2.616865543
         },
         "durations": [
           {
-            "duration": 2.665407004,
+            "duration": 2.616865543,
             "location": "src/test/CucumberFeatures/Shehla.feature:26"
           }
         ]
@@ -702,16 +702,16 @@
       {
         "name": "click the save buttons",
         "aggregatedDurations": {
-          "average": 0.431695971,
-          "median": 0.431695971
+          "average": 0.498503679,
+          "median": 0.498503679
         },
         "durations": [
           {
-            "duration": 0.743972584,
+            "duration": 0.892510248,
             "location": "src/test/CucumberFeatures/Imran.feature:5"
           },
           {
-            "duration": 0.119419358,
+            "duration": 0.104497111,
             "location": "src/test/CucumberFeatures/Imran.feature:31"
           }
         ]
@@ -724,16 +724,16 @@
       {
         "name": "Eneter \"200\" to Unit Price box",
         "aggregatedDurations": {
-          "average": 0.866206023,
-          "median": 0.866206023
+          "average": 1.229084684,
+          "median": 1.229084684
         },
         "durations": [
           {
-            "duration": 0.794941352,
+            "duration": 0.901183531,
             "location": "src/test/CucumberFeatures/Muhtar.feature:20"
           },
           {
-            "duration": 0.937470694,
+            "duration": 1.556985838,
             "location": "src/test/CucumberFeatures/Muhtar.feature:29"
           }
         ]
@@ -746,12 +746,12 @@
       {
         "name": "Click Vendor Bill link.",
         "aggregatedDurations": {
-          "average": 1.246778986,
-          "median": 1.246778986
+          "average": 1.625692001,
+          "median": 1.625692001
         },
         "durations": [
           {
-            "duration": 1.246778986,
+            "duration": 1.625692001,
             "location": "src/test/CucumberFeatures/Zohrajan.feature:4"
           }
         ]
@@ -764,12 +764,12 @@
       {
         "name": "Enter \"700\" to salex price box",
         "aggregatedDurations": {
-          "average": 0.899893717,
-          "median": 0.899893717
+          "average": 0.700037419,
+          "median": 0.700037419
         },
         "durations": [
           {
-            "duration": 0.899893717,
+            "duration": 0.700037419,
             "location": "src/test/CucumberFeatures/Shehla.feature:27"
           }
         ]
@@ -782,12 +782,12 @@
       {
         "name": "new subtotal should be dispayed",
         "aggregatedDurations": {
-          "average": 0.3583417,
-          "median": 0.3583417
+          "average": 0.356228418,
+          "median": 0.356228418
         },
         "durations": [
           {
-            "duration": 0.3583417,
+            "duration": 0.356228418,
             "location": "src/test/CucumberFeatures/Imran.feature:11"
           }
         ]
@@ -800,12 +800,12 @@
       {
         "name": "Click save button",
         "aggregatedDurations": {
-          "average": 0.657538841,
-          "median": 0.657538841
+          "average": 0.574445471,
+          "median": 0.574445471
         },
         "durations": [
           {
-            "duration": 0.657538841,
+            "duration": 0.574445471,
             "location": "src/test/CucumberFeatures/Shehla.feature:28"
           }
         ]
@@ -818,12 +818,12 @@
       {
         "name": "products info should match",
         "aggregatedDurations": {
-          "average": 1.5643228,
-          "median": 1.5643228
+          "average": 1.797388713,
+          "median": 1.797388713
         },
         "durations": [
           {
-            "duration": 1.5643228,
+            "duration": 1.797388713,
             "location": "src/test/CucumberFeatures/Shehla.feature:20"
           }
         ]
@@ -836,17 +836,17 @@
       {
         "name": "click the Reference check box",
         "aggregatedDurations": {
-          "average": 0.164544923,
-          "median": 0.164544923
+          "average": 0.150828224,
+          "median": 0.150828224
         },
         "durations": [
           {
-            "duration": 0.162816923,
-            "location": "src/test/CucumberFeatures/Ihtibar.feature:4"
+            "duration": 0.137065872,
+            "location": "src/test/CucumberFeatures/Ihtibar.feature:5"
           },
           {
-            "duration": 0.166272924,
-            "location": "src/test/CucumberFeatures/Ihtibar.feature:8"
+            "duration": 0.164590577,
+            "location": "src/test/CucumberFeatures/Ihtibar.feature:9"
           }
         ]
       }
@@ -858,12 +858,12 @@
       {
         "name": "the Unit Price Box should be Empty",
         "aggregatedDurations": {
-          "average": 0.041969938,
-          "median": 0.041969938
+          "average": 0.060546586,
+          "median": 0.060546586
         },
         "durations": [
           {
-            "duration": 0.041969938,
+            "duration": 0.060546586,
             "location": "src/test/CucumberFeatures/Imran.feature:17"
           }
         ]
@@ -876,12 +876,12 @@
       {
         "name": "all check boxes will be selected.",
         "aggregatedDurations": {
-          "average": 1.130689763,
-          "median": 1.130689763
+          "average": 1.063404827,
+          "median": 1.063404827
         },
         "durations": [
           {
-            "duration": 1.130689763,
+            "duration": 1.063404827,
             "location": "src/test/CucumberFeatures/Zohrajan.feature:25"
           }
         ]
@@ -894,12 +894,12 @@
       {
         "name": "Delete The item",
         "aggregatedDurations": {
-          "average": 0.079156087,
-          "median": 0.079156087
+          "average": 0.106033112,
+          "median": 0.106033112
         },
         "durations": [
           {
-            "duration": 0.079156087,
+            "duration": 0.106033112,
             "location": "src/test/CucumberFeatures/Imran.feature:23"
           }
         ]
@@ -912,12 +912,12 @@
       {
         "name": "user click Requests for Quotation",
         "aggregatedDurations": {
-          "average": 0.191700135,
-          "median": 0.191700135
+          "average": 0.202933846,
+          "median": 0.202933846
         },
         "durations": [
           {
-            "duration": 0.191700135,
+            "duration": 0.202933846,
             "location": "src/test/CucumberFeatures/Shehla.feature:6"
           }
         ]
@@ -930,12 +930,12 @@
       {
         "name": "Select the delete",
         "aggregatedDurations": {
-          "average": 0.152351638,
-          "median": 0.152351638
+          "average": 0.154916759,
+          "median": 0.154916759
         },
         "durations": [
           {
-            "duration": 0.152351638,
+            "duration": 0.154916759,
             "location": "src/test/CucumberFeatures/Zohrajan.feature:19"
           }
         ]
@@ -948,12 +948,12 @@
       {
         "name": "the order page should display",
         "aggregatedDurations": {
-          "average": 0.513551579,
-          "median": 0.513551579
+          "average": 0.753300374,
+          "median": 0.753300374
         },
         "durations": [
           {
-            "duration": 0.513551579,
+            "duration": 0.753300374,
             "location": "src/test/CucumberFeatures/Shehla.feature:9"
           }
         ]
@@ -966,13 +966,13 @@
       {
         "name": "each products check box will be selected.",
         "aggregatedDurations": {
-          "average": 0.151916012,
-          "median": 0.151916012
+          "average": 0.426070369,
+          "median": 0.426070369
         },
         "durations": [
           {
-            "duration": 0.151916012,
-            "location": "src/test/CucumberFeatures/Ihtibar.feature:15"
+            "duration": 0.426070369,
+            "location": "src/test/CucumberFeatures/Ihtibar.feature:16"
           }
         ]
       }
@@ -984,12 +984,12 @@
       {
         "name": "Click The Vendor drop down box and select random vendor",
         "aggregatedDurations": {
-          "average": 0.563602161,
-          "median": 0.563602161
+          "average": 0.547245034,
+          "median": 0.547245034
         },
         "durations": [
           {
-            "duration": 0.563602161,
+            "duration": 0.547245034,
             "location": "src/test/CucumberFeatures/Imran.feature:30"
           }
         ]
@@ -1002,12 +1002,12 @@
       {
         "name": "Header’s of Quotation page equals link\u0027s title",
         "aggregatedDurations": {
-          "average": 0.059895492,
-          "median": 0.059895492
+          "average": 0.047828928,
+          "median": 0.047828928
         },
         "durations": [
           {
-            "duration": 0.059895492,
+            "duration": 0.047828928,
             "location": "src/test/CucumberFeatures/Muhtar.feature:8"
           }
         ]
@@ -1020,56 +1020,56 @@
       {
         "name": "Click the Add an Item",
         "aggregatedDurations": {
-          "average": 0.80233076,
-          "median": 0.815178801
+          "average": 0.932208575,
+          "median": 1.016045873
         },
         "durations": [
           {
-            "duration": 0.785116495,
+            "duration": 1.01503574,
             "location": "src/test/CucumberFeatures/Imran.feature:10"
           },
           {
-            "duration": 0.922098314,
+            "duration": 1.056058477,
             "location": "src/test/CucumberFeatures/Imran.feature:15"
           },
           {
-            "duration": 0.844734654,
+            "duration": 1.029101666,
             "location": "src/test/CucumberFeatures/Imran.feature:21"
           },
           {
-            "duration": 0.853288044,
+            "duration": 1.067848562,
             "location": "src/test/CucumberFeatures/Imran.feature:28"
           },
           {
-            "duration": 1.359055513,
+            "duration": 1.028398519,
             "location": "src/test/CucumberFeatures/Muhtar.feature:18"
           },
           {
-            "duration": 0.743008317,
+            "duration": 0.918478045,
             "location": "src/test/CucumberFeatures/Muhtar.feature:27"
           },
           {
-            "duration": 0.770813769,
+            "duration": 0.978254924,
             "location": "src/test/CucumberFeatures/Rayisa.feature:7"
           },
           {
-            "duration": 0.159256388,
+            "duration": 0.16436231,
             "location": "src/test/CucumberFeatures/Rayisa.feature:9"
           },
           {
-            "duration": 0.732818232,
+            "duration": 0.877770614,
             "location": "src/test/CucumberFeatures/Rayisa.feature:15"
           },
           {
-            "duration": 0.827421793,
+            "duration": 0.97026772,
             "location": "src/test/CucumberFeatures/Rayisa.feature:22"
           },
           {
-            "duration": 0.818220723,
+            "duration": 1.017056007,
             "location": "src/test/CucumberFeatures/Rayisa.feature:30"
           },
           {
-            "duration": 0.81213688,
+            "duration": 1.06387032,
             "location": "src/test/CucumberFeatures/Rayisa.feature:37"
           }
         ]
@@ -1082,12 +1082,12 @@
       {
         "name": "click the expected date check box",
         "aggregatedDurations": {
-          "average": 0.183244025,
-          "median": 0.183244025
+          "average": 0.137742139,
+          "median": 0.137742139
         },
         "durations": [
           {
-            "duration": 0.183244025,
+            "duration": 0.137742139,
             "location": "src/test/CucumberFeatures/Zohrajan.feature:24"
           }
         ]
@@ -1100,12 +1100,12 @@
       {
         "name": "Click the action button.",
         "aggregatedDurations": {
-          "average": 0.138724326,
-          "median": 0.138724326
+          "average": 0.103094657,
+          "median": 0.103094657
         },
         "durations": [
           {
-            "duration": 0.138724326,
+            "duration": 0.103094657,
             "location": "src/test/CucumberFeatures/Zohrajan.feature:18"
           }
         ]
