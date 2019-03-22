@@ -3,21 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bd266616-281c-4a4e-8174-a662454ebe55" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/CucumberFeatures/Ihtibar.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/CucumberFeatures/Ihtibar.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/CucumberFeatures/Imran.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/CucumberFeatures/Imran.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/CucumberFeatures/Shehla.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/CucumberFeatures/Shehla.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/CucumberReports/MyJunitReport.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/CucumberReports/MyUsageReport.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/CucumberReports/MyprettyReport.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/CucumberReports/formatter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/CucumberReports/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/CucumberReports/jquery-1.8.2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/CucumberReports/report.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/CucumberReports/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Runner/SmokeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Runner/SmokeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestSteps/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestSteps/Hooks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Runner/SmokeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Runner/SmokeTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestSteps/IhtibarsSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestSteps/IhtibarsSteps.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,7 +13,44 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestSteps/Hooks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-510">
+              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Runner/SmokeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Utilities/TestBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -80,10 +102,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-14" />
-    <option name="y" value="-14" />
-    <option name="width" value="2590" />
-    <option name="height" value="1560" />
+    <option name="width" value="2568" />
+    <option name="height" value="1537" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -92,7 +112,79 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Purchase_PhaseV_Eagles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Purchase_PhaseV_Eagles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Purchase_PhaseV_Eagles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Purchase_PhaseV_Eagles" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Purchase_PhaseV_Eagles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Purchase_PhaseV_Eagles" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Purchase_PhaseV_Eagles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Purchase_PhaseV_Eagles" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="CucumberFeatures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Purchase_PhaseV_Eagles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Purchase_PhaseV_Eagles" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Purchase_PhaseV_Eagles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Purchase_PhaseV_Eagles" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Purchase_PhaseV_Eagles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Purchase_PhaseV_Eagles" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Runner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Purchase_PhaseV_Eagles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Purchase_PhaseV_Eagles" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="TestSteps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Purchase_PhaseV_Eagles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Purchase_PhaseV_Eagles" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Utilities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Purchase_PhaseV_Eagles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Purchase_PhaseV_Eagles" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -226,7 +318,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1477" height="888" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24520256" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25870648" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -329,16 +421,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Utilities/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -542,10 +624,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/CucumberReports/MyJasonReport.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/CucumberReports/MyJunitReport.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestSteps/Hooks.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        <state relative-caret-position="-510">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -555,7 +645,17 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/Runner/SmokeTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
-          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Utilities/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
